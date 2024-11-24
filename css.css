@@ -1,0 +1,184 @@
+.image
+{
+   margin-left: 0%;
+   height: 530px;
+}
+.image1
+{
+  margin-left: 37%;
+  height: 530px;
+  width: 300px;
+}
+.image2
+{
+  margin-left: 12%;
+  height: 530px;
+}
+.para
+{
+  font-size: 200%;
+  font-family: fantasy;
+}
+.tab
+{
+   height: 40%;
+   width: 40%;
+}
+.btn
+{
+  position:absolute;
+  background-color: pink;
+  box-shadow: 5px 5px 10px black;
+  border-radius: 5px;
+  height: 5%;
+  width: 5%;
+  text-decoration: underline;
+  font-weight: bolder;                
+}
+.lbl
+{
+ font-family: calibri;
+ font-size: 50px;
+ font-weight: bold;
+ color: yellow;
+ text-decoration: underline;
+ align-content: center;
+ font-weight: bold;
+}  
+.mainbar
+{
+  width: 100%;
+  height: 30px;
+  background-color: pink;
+  float: left;
+}
+.header
+{
+  width: 100%;
+  height: 80px;
+  float: left;
+  background-color: darkkhaki;
+}
+.img1
+{
+  width: 110px;
+  height: 80px;
+}
+.menubar
+{
+  width: 100%;
+  height: 80px;
+  float: left;
+  background-color: aquamarine;
+}
+.menu
+{
+  list-style: none;
+}
+.menu li
+{
+  float: left;
+  width: 190px;
+  font-size: 33px;
+  font-family: calibri;
+  padding: 10px;
+  text-align: center;
+  margin-left: 200px;
+}
+.menu li:hover
+{
+  text-decoration: underline;
+  font-weight: bolder;
+}
+.a
+{
+  text-decoration: none;
+  color: blue;
+}
+.bhavisha
+{
+  font-size: 40px;
+  text-align: center;
+}
+.bodybar
+{
+  width: 100%;
+  height: 350px;
+  background-color: cyan;
+  float: left;
+}
+.p
+{
+  padding: 8px;
+  font-size: 18px;
+  font-family: 'Lucida Sans';
+  text-align: justify;
+}
+.teddyimg
+{
+   width: 180px;
+   height: 260px;
+   border: 5px solid black;
+   border-radius: 5px;
+}
+.teddyimg1
+{
+  width: 110px;
+  height: 55px;
+  background-repeat: no-repeat; 
+  float: left;
+}
+.foot1
+{
+  width: 100%;
+  height: 60px;
+  float: left;
+  background-color:blanchedalmond;
+}
+.marq
+{
+  font-size: 30px;
+  text-decoration: underline;
+  font-weight: bold;
+}
+.foot2
+{
+  width: 100%;
+  height: 50px;
+  float: left;
+  background-color: black;
+  text-align: center;
+  margin-top: 0;
+  padding-top: 8px;
+}
+.footfonts
+{
+  font-size: 30px;
+  font-family: 'Franklin Gothic Medium';
+  color: red;
+}
+.wemet
+{
+  font-size: 21px;
+  font-family: fantasy;
+  padding: 5px;
+  height: 50%;
+}
+.imgtab
+{
+  width: 100%;
+}
+.imgh1
+{
+  text-align: center;
+  margin-top: 10px;
+  font-size: 40px;
+}
+.galimg
+{
+  height: 270px;
+  width: 50%;
+  border: 3px solid black;
+  border-radius: 5px;
+  margin-top: 20px;
+}
